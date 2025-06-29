@@ -1,0 +1,21 @@
+{
+  "name": "shopee_cart",
+  "version": "1.0.0",
+  "main": "index.js",  
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavogss/shopee_cart.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavogss/shopee_cart/issues"
+  },
+  "homepage": "https://github.com/gustavogss/shopee_cart#readme",
+  "description": "Carrinho de Compras da Shopee"
+}
