@@ -1,1 +1,1 @@
-console.log("Começando projeto");
+const cart = [];
