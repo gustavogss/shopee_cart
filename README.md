@@ -6,7 +6,7 @@
 
 ## Features
 - [x] Adicionar itens no carrinho
-- [ ] Remover itens no carrinho
+- [x] Remover itens no carrinho
 - [x] Calcular total de itens no carrinho
 
 ## Como utilizar:
