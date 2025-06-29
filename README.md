@@ -5,9 +5,9 @@
 - NodeJs
 
 ## Features
-- [ ] Adicionar itens no carrinho
+- [x] Adicionar itens no carrinho
 - [ ] Remover itens no carrinho
-- [ ] Calcular total de itens no carrinho
+- [x] Calcular total de itens no carrinho
 
 ## Como utilizar:
 - Baixar o projeto
